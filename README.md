@@ -1,2 +1,2 @@
 # spellingpractice
-SpellingPractice
+SpellingPractice is an Alexa Skill to practice spelling words
